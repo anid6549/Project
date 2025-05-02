@@ -1,0 +1,122 @@
+/sw/bioinfo/quast/5.0.2/snowy/bin/quast.py -t 4 -o /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342129 /home/anniei/Genome_analysis/analyses/DNA/02_genome_assembly/megahit_results/SRR4342129/final.contigs.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.119.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core (linux_64)
+  Python version: 3.7.2
+  CPUs number: 16
+
+Started: 2025-04-26 16:00:31
+
+Logging to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342129/quast.log
+
+CWD: /domus/h1/anniei/Genome_analysis/code
+Main parameters: 
+  MODE: default, threads: 4, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/anniei/Genome_analysis/analyses/DNA/02_genome_assembly/megahit_results/SRR4342129/final.contigs.fa ==> final.contigs
+
+2025-04-26 16:00:55
+Running Basic statistics processor...
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 1296, L50 = 41212, Total length = 229630996, GC % = 47.83, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342129/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342129/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342129/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342129/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2025-04-26 16:01:15
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2025-04-26 16:01:21
+RESULTS:
+  Text versions of total report are saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342129/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342129/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342129/report.html
+  PDF version (tables and plots) is saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342129/report.pdf
+  Icarus (contig browser) is saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342129/icarus.html
+  Log is saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342129/quast.log
+
+Finished: 2025-04-26 16:01:21
+Elapsed time: 0:00:50.062376
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/sw/bioinfo/quast/5.0.2/snowy/bin/quast.py -t 4 -o /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342133 /home/anniei/Genome_analysis/analyses/DNA/02_genome_assembly/megahit_results/SRR4342133/final.contigs.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.119.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core (linux_64)
+  Python version: 3.7.2
+  CPUs number: 16
+
+Started: 2025-04-26 16:01:21
+
+Logging to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342133/quast.log
+
+CWD: /domus/h1/anniei/Genome_analysis/code
+Main parameters: 
+  MODE: default, threads: 4, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /home/anniei/Genome_analysis/analyses/DNA/02_genome_assembly/megahit_results/SRR4342133/final.contigs.fa ==> final.contigs
+
+2025-04-26 16:01:39
+Running Basic statistics processor...
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 1368, L50 = 31985, Total length = 219414915, GC % = 49.09, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342133/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342133/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342133/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342133/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2025-04-26 16:01:57
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2025-04-26 16:02:02
+RESULTS:
+  Text versions of total report are saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342133/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342133/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342133/report.html
+  PDF version (tables and plots) is saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342133/report.pdf
+  Icarus (contig browser) is saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342133/icarus.html
+  Log is saved to /home/anniei/Genome_analysis/analyses/DNA/03_quality_control/quast_SRR4342133/quast.log
+
+Finished: 2025-04-26 16:02:02
+Elapsed time: 0:00:41.290796
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

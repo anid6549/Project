@@ -1,0 +1,16 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"system_env"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore-cache load "system_env"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+MetaBAT 2 (v2.12.1) using minContig 2500, minCV 1.0, minCVSum 1.0, maxP 95%, minS 60, and maxEdges 200. 
+24 bins (63553892 bases in total) formed.
+MetaBAT 2 (v2.12.1) using minContig 2500, minCV 1.0, minCVSum 1.0, maxP 95%, minS 60, and maxEdges 200. 
+29 bins (69002026 bases in total) formed.

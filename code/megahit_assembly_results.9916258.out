@@ -1,0 +1,52 @@
+2025-04-25 13:58:16 - MEGAHIT v1.2.9
+2025-04-25 13:58:16 - Using megahit_core with POPCNT support
+2025-04-25 13:58:16 - Convert reads to binary library
+2025-04-25 13:59:22 - INFO  sequence/io/sequence_lib.cpp  :   75 - Lib 0 (/home/anniei/Genome_analysis/data/raw_data/DNA/SRR4342129_1.paired.trimmed.fastq.gz,/home/anniei/Genome_analysis/data/raw_data/DNA/SRR4342129_2.paired.trimmed.fastq.gz): pe, 48110692 reads, 101 max length
+2025-04-25 13:59:27 - INFO  utils/utils.h                 :  152 - Real: 71.0175	user: 47.2147	sys: 6.2107	maxrss: 273476
+2025-04-25 13:59:27 - Start assembly. Number of CPU threads 4 
+2025-04-25 13:59:27 - k list: 21,41,61,81 
+2025-04-25 13:59:27 - Memory used: 121485444710
+2025-04-25 13:59:27 - Extract solid (k+1)-mers for k = 21 
+2025-04-25 14:08:55 - Build graph for k = 21 
+2025-04-25 14:19:34 - Assemble contigs from SdBG for k = 21
+2025-04-25 15:04:09 - Local assembly for k = 21
+2025-04-25 15:08:44 - Extract iterative edges from k = 21 to 41 
+2025-04-25 15:14:59 - Build graph for k = 41 
+2025-04-25 15:21:33 - Assemble contigs from SdBG for k = 41
+2025-04-25 15:45:53 - Local assembly for k = 41
+2025-04-25 15:54:47 - Extract iterative edges from k = 41 to 61 
+2025-04-25 15:56:13 - Build graph for k = 61 
+2025-04-25 15:59:42 - Assemble contigs from SdBG for k = 61
+2025-04-25 16:14:05 - Local assembly for k = 61
+2025-04-25 16:20:44 - Extract iterative edges from k = 61 to 81 
+2025-04-25 16:21:37 - Build graph for k = 81 
+2025-04-25 16:23:22 - Assemble contigs from SdBG for k = 81
+2025-04-25 16:34:01 - Merging to output final contigs 
+2025-04-25 16:34:06 - 593983 contigs, total 363900749 bp, min 200 bp, max 111957 bp, avg 612 bp, N50 692 bp
+2025-04-25 16:34:06 - ALL DONE. Time elapsed: 9349.945988 seconds 
+2025-04-25 16:34:06 - MEGAHIT v1.2.9
+2025-04-25 16:34:06 - Using megahit_core with POPCNT support
+2025-04-25 16:34:06 - Convert reads to binary library
+2025-04-25 16:35:29 - INFO  sequence/io/sequence_lib.cpp  :   75 - Lib 0 (/home/anniei/Genome_analysis/data/raw_data/DNA/SRR4342133_1.paired.trimmed.fastq.gz,/home/anniei/Genome_analysis/data/raw_data/DNA/SRR4342133_2.paired.trimmed.fastq.gz): pe, 59954188 reads, 101 max length
+2025-04-25 16:35:34 - INFO  utils/utils.h                 :  152 - Real: 87.8134	user: 61.7762	sys: 8.1940	maxrss: 273352
+2025-04-25 16:35:34 - Start assembly. Number of CPU threads 4 
+2025-04-25 16:35:34 - k list: 21,41,61,81 
+2025-04-25 16:35:34 - Memory used: 121485444710
+2025-04-25 16:35:34 - Extract solid (k+1)-mers for k = 21 
+2025-04-25 16:47:06 - Build graph for k = 21 
+2025-04-25 16:55:43 - Assemble contigs from SdBG for k = 21
+2025-04-25 17:37:37 - Local assembly for k = 21
+2025-04-25 17:42:02 - Extract iterative edges from k = 21 to 41 
+2025-04-25 17:49:40 - Build graph for k = 41 
+2025-04-25 17:55:40 - Assemble contigs from SdBG for k = 41
+2025-04-25 18:17:27 - Local assembly for k = 41
+2025-04-25 18:29:29 - Extract iterative edges from k = 41 to 61 
+2025-04-25 18:31:09 - Build graph for k = 61 
+2025-04-25 18:34:15 - Assemble contigs from SdBG for k = 61
+2025-04-25 18:47:27 - Local assembly for k = 61
+2025-04-25 18:56:40 - Extract iterative edges from k = 61 to 81 
+2025-04-25 18:57:38 - Build graph for k = 81 
+2025-04-25 18:59:23 - Assemble contigs from SdBG for k = 81
+2025-04-25 19:08:51 - Merging to output final contigs 
+2025-04-25 19:08:55 - 540176 contigs, total 341784718 bp, min 200 bp, max 343433 bp, avg 632 bp, N50 721 bp
+2025-04-25 19:08:56 - ALL DONE. Time elapsed: 9289.968409 seconds 
