@@ -1,6 +1,0 @@
-# Ignore these directories
-analyses/
-data/
-
-# Ignore other files
-*.out
